@@ -16,8 +16,7 @@
 
 # Sobre o Projeto
 
-- Programa teste, testando a estrutura condicional simples e execulta o resultado na tela.
-- Outros fatores, você também pode  fazer teste aleatorio nesse projeto.
+- Programa teste, Orientação ao Objetio simples e execulta o resultado na tela.
 - Projeto foi implemetado no  Console.
 - IDE Visual Studio
 
